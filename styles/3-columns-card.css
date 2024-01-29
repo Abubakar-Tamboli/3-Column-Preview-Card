@@ -1,0 +1,65 @@
+
+
+.container{
+
+    width: 70%;
+    height: 60%;
+
+    display: flex;
+
+    border-radius: 1rem;
+
+
+}
+
+
+.sedans{
+
+    background-color: hsl(31, 77%, 52%);
+    padding: 4rem 3rem 0 3rem;
+    margin-bottom: -5rem;
+    width: 20vw;
+
+    border-top-left-radius: 0.3rem;
+    border-bottom-left-radius: 0.3rem;
+
+}
+
+.suvs{
+
+    background-color: hsl(184, 100%, 22%);
+    padding: 4rem 3rem 0 3rem;
+    margin-bottom: -5rem;
+    width: 20vw;
+
+}
+
+.luxury{
+
+    background-color: hsl(179, 100%, 13%);
+    padding: 4rem 3rem 0 3rem;
+    margin-bottom: -5rem;
+    width: 20vw;
+    border-top-right-radius: 0.3rem;
+    border-bottom-right-radius: 0.3rem;
+
+
+}
+
+.learn-more-btn-1{
+
+    color: hsl(31, 77%, 52%);
+
+}
+
+.learn-more-btn-2{
+
+    color: hsl(184, 100%, 22%);
+
+}
+
+.learn-more-btn-3{
+
+    color: hsl(179, 100%, 13%);
+
+}
