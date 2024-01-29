@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/3-column-screenshot.png.jpg)
+![](./images/3-column-screenshot.png)
 
 ### Links
 
